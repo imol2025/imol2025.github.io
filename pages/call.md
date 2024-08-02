@@ -37,80 +37,78 @@ Examples of topics include:
 
 
 
-[//]: # (<h3 style='margin-bottom: 10pt;'>Key Dates</h3>)
+<h3 style='margin-bottom: 10pt;'>Key Dates</h3>
+
+
+<div class='description' style='font-size: 11pt;'>
+
+<br>
+
+
+<center>
+
+<table style='margin-bottom:10pt;text-align:center;'>
+
+	<tr>
+
+		<td> <b>Submission Deadline</b></td> 
+
+		<td> Sept 11, 2024</td>
+
+	</tr>
+
+	<tr>
+
+		<td> Acceptance Notification </td>
+
+		<td> Oct 14, 2024</td>
+
+	</tr>
+
+[//]: # (	<tr>)
 
 [//]: # ()
-[//]: # (<div class='description' style='font-size: 11pt;'>)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (<center>)
-
-[//]: # (<table style='margin-bottom:10pt;text-align:center;'>)
-
-[//]: # (	<tr>)
-
-[//]: # (		<td> <b>Submission Deadline</b></td> )
-
-[//]: # (		<td> Oct 4, 2023</td>)
-
-[//]: # (	</tr>)
-
-[//]: # (	<tr>)
-
-[//]: # (		<td> Acceptance Notification </td>)
-
-[//]: # (		<td> Oct 19, 2023</td>)
-
-[//]: # (	</tr>)
-
-[//]: # (	<tr>)
-
 [//]: # (		<td> Camera-Ready Deadline</td>)
 
+[//]: # ()
 [//]: # (		<td> Nov 20, 2023 </td>)
 
+[//]: # ()
 [//]: # (	</tr>)
 
-[//]: # (	<tr>)
+	<tr>
 
-[//]: # (		<td> Workshop Date</td>)
+		<td> Workshop Date</td>
 
-[//]: # (		<td> Dec 16, 2023 &#40;TBD&#41;</td>)
+		<td> Dec 14 or 15, 2024 (TBD)</td>
 
-[//]: # (	</tr>)
+	</tr>
 
-[//]: # (</table>)
+</table>
 
-[//]: # (</center>)
+</center>
 
-[//]: # (<p>All deadlines are specified in <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> &#40;Anywhere on Earth&#41;.)
+<p>All deadlines are specified in <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> (Anywhere on Earth).
 
-[//]: # (</p>)
+</p>
 
-[//]: # ()
-[//]: # (</div>)
 
-[//]: # ()
-[//]: # (<h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>)
+</div>
 
-[//]: # ()
-[//]: # (<div class='description' style='font-size: 11pt;'>)
 
-[//]: # (<p>Submission should be made on <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/IMOL" target="_blank">OpenReview</a>.</p>)
+<h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
-[//]: # ()
-[//]: # (<p> Submissions should be anonymised papers up to 4 pages &#40;appendices can be added to the main PDF&#41;. You must format your submission using the <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles" target="_blank"> NeurIPS 2023 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p> )
 
-[//]: # ()
-[//]: # (<p>The papers should report original research, provide synthesis of previous works or develop novel environments. Short opinion and review papers are welcomed. We accept dual submission. Authors can upload concise versions of parallel submissions to other conferences such as NeurIPS main conference or ICLR. We discourage submitting to multiple NeurIPS workshops</p>)
+<div class='description' style='font-size: 11pt;'>
 
-[//]: # ()
-[//]: # (<p>All accepted papers will be available on the workshop website, but no formal workshop proceedings will be published.</p>)
 
-[//]: # ()
-[//]: # (<p>For any questions, email us at <a href='mailto:imol.workshop@gmail.com'>imol.workshop@gmail.com</a>.</p>)
+<p>Submissions must be made via <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/IMOL" target="_blank">OpenReview</a>. All submissions must be anonymized. Full submissions may be up to 4 pages long (excluding references and appendices) and use the <a href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip" target="_blank"> NeurIPS 2024 LaTeX style template </a>. Tiny papers should be a single page (excluding references and appendices), using the same template. Appendices can be added to the main PDF. Each paper will receive two reviews, and all reviews will be double-blind. </p>
 
-[//]: # (</div>)
+<p>Submissions should report original research, develop novel environments or benchmarks, highlight meaningful negative results, or provide opinions and synthesis of previous works. Authors can upload concise versions of parallel submissions to other conferences such as the NeurIPS main conference or ICLR. We accept dual submission but discourage submitting to multiple NeurIPS workshops.</p>
+
+<p>All accepted papers will be available on the workshop website, but no formal workshop proceedings will be published.</p>
+
+<p>For any questions, email us at <a href='mailto:imol.workshop@gmail.com'>imol.workshop@gmail.com</a></p>
+
+</div>
 
