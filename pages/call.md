@@ -39,7 +39,6 @@ Examples of topics include:
 
 <h3 style='margin-bottom: 10pt;'>Key Dates</h3>
 
-
 <div class='description' style='font-size: 11pt;'>
 
 <br>
@@ -48,7 +47,6 @@ Examples of topics include:
 <center>
 
 <table style='margin-bottom:10pt;text-align:center;'>
-
 	<tr>
 
 		<td> <b>Submission Deadline</b></td> 
@@ -83,16 +81,10 @@ Examples of topics include:
 		<td> Dec 14 or 15, 2024 (TBD)</td>
 
 	</tr>
-
 </table>
-
 </center>
 
-<p>All deadlines are specified in <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> (Anywhere on Earth).
-
-</p>
-
-
+<p>All deadlines are specified in <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> (Anywhere on Earth).</p>
 </div>
 
 
