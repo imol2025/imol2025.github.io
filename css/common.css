@@ -9,7 +9,7 @@
 
 .collapsible {
   margin-top: 15pt;
-  background-color: #FFFFFF;
+  background-color: #ccd0eb;
   border-color: #1f0612;
   border-radius: 5pt;
   color: #1f0612;
@@ -24,14 +24,14 @@
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
-  background-color: #FFFFFF; /*rgba(0,0,0,.08);*/
-  border-color: #FFFFFF;
+  background-color: #ccd0eb; /*rgba(0,0,0,.08);*/
+  border-color: #ccd0eb;
 }
 
 .collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
   color: white !important;
-  border-color: #FFFFFF;
+  border-color: #ccd0eb;
   float: right;
   margin-left: 5px;
 }
@@ -77,7 +77,7 @@
 
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #FFFFFF;
+  background-color: #ccd0eb;
   border-color: #1f0612;
   color: #1f0612;
 }
@@ -157,7 +157,7 @@ td:first-child {
     width: 90pt;
 }
 tr:nth-child(n+1), tr:nth-child(n+2) {
-    background: #FFFFFF;
+    background: #ccd0eb;
 }
 
 
