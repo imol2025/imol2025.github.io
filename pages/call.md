@@ -39,14 +39,10 @@ Examples of topics include:
 
 <h3 style='margin-bottom: 10pt;'>Key Dates</h3>
 
-<div class='description' style='font-size: 11pt;'>
 
-<br>
-
-
-<center>
 
 <table style='margin-bottom:10pt;text-align:center;'>
+
 	<tr>
 
 		<td> <b>Submission Deadline</b></td> 
@@ -62,18 +58,6 @@ Examples of topics include:
 		<td> Oct 14, 2024</td>
 
 	</tr>
-
-[//]: # (	<tr>)
-
-[//]: # ()
-[//]: # (		<td> Camera-Ready Deadline</td>)
-
-[//]: # ()
-[//]: # (		<td> Nov 20, 2023 </td>)
-
-[//]: # ()
-[//]: # (	</tr>)
-
 	<tr>
 
 		<td> Workshop Date</td>
@@ -81,9 +65,10 @@ Examples of topics include:
 		<td> Dec 14 or 15, 2024 (TBD)</td>
 
 	</tr>
-</table>
-</center>
 
+</table>
+
+<div class='description' style='font-size: 11pt;'>
 <p>All deadlines are specified in <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> (Anywhere on Earth).</p>
 </div>
 

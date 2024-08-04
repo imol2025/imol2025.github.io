@@ -157,7 +157,7 @@ td:first-child {
     width: 90pt;
 }
 tr:nth-child(n+1), tr:nth-child(n+2) {
-    background: #edd8e2;
+    background: #ccd0eb;
 }
 
 
