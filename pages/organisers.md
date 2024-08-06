@@ -31,7 +31,7 @@ subtitle:
         </div>
         <div class="col-sm">
           <img class="organiser-img" src='/assets/img/gaia.jpg'>
-          <div class="organiser-name" style="text-align: center;"> <a href="https://gaiamolinaro.github.io/">Gaia Molinaro Chu</a> <br> <p class='speaker-affiliation'> UC 
+          <div class="organiser-name" style="text-align: center;"> <a href="https://gaiamolinaro.github.io/">Gaia Molinaro</a> <br> <p class='speaker-affiliation'> UC 
 Berkeley</p></div>
         </div>
   </div>
