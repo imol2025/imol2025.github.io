@@ -8,8 +8,12 @@ subtitle:
 
 <div class='description' style='font-size: 11pt;margin-bottom: 10pt'>
 
-We will welcome submissions of technical, benchmark and opinion papers on any topics related to the Intrinsically Motivated Open-ended Learning themes.  
-Examples of topics include:
+We welcome two categories of submissions: 
+<ul>
+	<li>4-page submissions of technical contributions, benchmarks, negative results and opinion papers.</li>
+	<li>1-page tiny papers (inspired by the ICLR tiny paper initiative) showcasing early research ideas to foster discussion and collaboration.</li>
+</ul>
+Submissions should be on any topics related to the Intrinsically Motivated Open-ended Learning themes across disciplines (machine learning, cognitive sciences, philosophy, psychology, and more). Examples of relevant topics include:
 </div>
 <div class='description' style='font-size: 11pt;'>
 
