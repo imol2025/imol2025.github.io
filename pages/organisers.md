@@ -16,7 +16,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/nadiamady.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://sites.ualberta.ca/~nmady/">Nadia Ady</a> <br> <p class='speaker-affiliation'>Aalto</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.aalto.fi/en/people/nadia-m-ady">Nadia Ady</a> <br> <p class='speaker-affiliation'>Aalto</p></div>
     </div>
   </div>
 <div class="row">
