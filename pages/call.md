@@ -51,7 +51,7 @@ Submissions should be on any topics related to the Intrinsically Motivated Open-
 
 		<td> <b>Submission Deadline</b></td> 
 
-		<td> Sept 11, 2024</td>
+		<td> Sept 16, 2024</td>
 
 	</tr>
 
