@@ -59,7 +59,7 @@ Submissions should be on any topics related to the Intrinsically Motivated Open-
 
 		<td> Acceptance Notification </td>
 
-		<td> Oct 14, 2024</td>
+		<td> Oct 9, 2024</td>
 
 	</tr>
 	<tr>
