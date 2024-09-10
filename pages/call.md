@@ -73,7 +73,7 @@ Submissions should be on any topics related to the Intrinsically Motivated Open-
 </table>
 
 <div class='description' style='font-size: 11pt;'>
-<p>All deadlines are specified in <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> (Anywhere on Earth).</p>
+<p>All deadlines are end of day <a href="https://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a> (Anywhere on Earth).</p>
 </div>
 
 
