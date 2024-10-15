@@ -53,7 +53,7 @@ Berkeley</p></div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/brenden.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://cims.nyu.edu/~brenden/">Brenden Lake</a> <br> <p 
-class='speaker-affiliation'>MIT</p></div>
+class='speaker-affiliation'>NYU</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/laura.jpg'>

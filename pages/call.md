@@ -45,31 +45,19 @@ Submissions should be on any topics related to the Intrinsically Motivated Open-
 
 
 
-<table style='margin-bottom:10pt;text-align:center;'>
-
+<table style='margin-bottom:10pt;text-align:center;font-size: 11pt;'>
 	<tr>
-
-		<td> <b>Submission Deadline</b></td> 
-
+		<td style="width:30%"> <b>Submission Deadline</b></td>
 		<td> Sept 16, 2024</td>
-
 	</tr>
-
 	<tr>
-
 		<td> Acceptance Notification </td>
-
 		<td> Oct 9, 2024</td>
-
 	</tr>
 	<tr>
-
 		<td> Workshop Date</td>
-
 		<td> Dec 14 or 15, 2024 (TBD)</td>
-
 	</tr>
-
 </table>
 
 <div class='description' style='font-size: 11pt;'>

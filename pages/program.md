@@ -8,33 +8,18 @@ subtitle:
 The program will appear here.
 </p>
 
-[//]: # (<div class='description' style='font-size: 11pt;'>)
+[//]: # (<p style='font-size: 11pt;'>)
+
+[//]: # (The program listed below is tentative and may be updated.)
+
+[//]: # (</p>)
 
 [//]: # ()
-[//]: # (<h3 style='margin-bottom: 10pt;'>Mentorship Session</h3>)
+[//]: # (<table style='font-size: 11pt;'>)
 
-[//]: # ()
-[//]: # (<p>Sign up <b><a href="https://t.co/9zw5X4j4xk" style="color:#a2204d" target="_blank">here</a></b> to chat with one of our research mentors!)
-
-[//]: # (    The list includes Anima Anandkumar, Dani Bassett, Doina Precup, Georg Martius, Jim Fan, Laura Schulz and Natalia Vélez. </p>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<h3 style='margin-bottom: 10pt;'>Program of the Day</h3>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<div class='program-table' style='font-size: 10pt; width:100%;'>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<table>)
-
-[//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>08:15 - 08:25</td>)
+[//]: # (    <td>08:30 - 08:45</td>)
 
 [//]: # (    <td>Opening Remarks</td>)
 
@@ -43,34 +28,34 @@ The program will appear here.
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>08:25 - 09:05</td>)
+[//]: # (    <td>08:45 - 09:25</td>)
 
-[//]: # (    <td><b>Invited talk:</b> <i>Georg Martius</i> - Intrinsic Motivations for Efficient Exploration in Reinforcement Learning</td>)
-
-[//]: # (  </tr>)
-
-[//]: # ()
-[//]: # (  <tr>)
-
-[//]: # (    <td>09:05 - 09:45</td>)
-
-[//]: # (    <td><b>Invited talk:</b> <i>Doina Precup</i> - Title TBD</td>)
+[//]: # (    <td><b>Invited talk:</b> <i>Anna Harutyunyan</i> - Title TBD</td>)
 
 [//]: # (  </tr>)
 
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>09:45 - 10:00</td>)
+[//]: # (    <td>09:25 - 10:05</td>)
 
-[//]: # (    <td>Contributed talk: Surprise-Adaptive Intrinsic Motivation for Unsupervised Reinforcement Learning</td>)
+[//]: # (    <td><b>Invited talk:</b> <i>Alison Gopnik</i> - Title TBD</td>)
 
 [//]: # (  </tr>)
 
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>10:00 - 11:00</td>)
+[//]: # (    <td>10:05 - 10:20</td>)
+
+[//]: # (    <td>Contributed talk: Title TBD</td>)
+
+[//]: # (  </tr>)
+
+[//]: # ()
+[//]: # (  <tr>)
+
+[//]: # (    <td>10:20 - 11:20</td>)
 
 [//]: # (    <td style="text-align: center">Break & Posters</td>)
 
@@ -79,71 +64,62 @@ The program will appear here.
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>11:00 - 11:15</td>)
+[//]: # (    <td>11:20 - 11:35</td>)
 
-[//]: # (    <td>Contributed talk: What can AI Learn from Human Exploration?</td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td>11:15 - 11:55</td>)
-
-[//]: # (    <td><b>Invited talk:</b> <i>Michael Tomasello</i> - Agency and Cognitive Development</td>)
+[//]: # (    <td>Contributed talk: Title TBD</td>)
 
 [//]: # (  </tr>)
 
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>11:55 - 12:00</td>)
+[//]: # (    <td>11:35 - 12:15</td>)
 
-[//]: # (    <td>Discussion</td>)
+[//]: # (    <td><b>Invited talk:</b> <i>Pierluca D'Oro</i> - Title TBD</td>)
 
 [//]: # (  </tr>)
 
 [//]: # ()
+[//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>12:00 - 13:30</td>)
+[//]: # (    <td>12:15 - 13:25</td>)
 
-[//]: # (    <td style="text-align: center">Lunch + <a href="https://t.co/9zw5X4j4xk">Mentorship Session</a></td>)
+[//]: # (    <td style="text-align: center">Lunch + Mentorship Session</td>)
 
 [//]: # (  </tr>)
 
 [//]: # ()
 [//]: # ( <tr>)
 
-[//]: # (    <td>13:30 - 13:45</td>)
+[//]: # (    <td>13:25 - 14:05</td>)
 
-[//]: # (    <td>Contributed talk: Voyager: An Open-Ended Embodied Agent with Large Language Models </td>)
+[//]: # (    <td><b>Invited talk:</b> <i>Kou Murayama</i> - Title TBD</td>)
 
-[//]: # (  </tr>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (  <tr>)
-
-[//]: # (    <td>13:45 - 14:25</td>)
-
-[//]: # (    <td><b>Invited talk:</b> <i>Feryal Behbahani</i> - Title TBD</td>)
-
-[//]: # (  </tr>)
+[//]: # ( </tr>)
 
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>14:25 - 15:05</td>)
+[//]: # (    <td>14:05 - 14:45</td>)
 
-[//]: # (    <td><b>Invited talk:</b> <i>Daniel Polani</i> -  Information and its Flow: From Dynamics to Agency and Back</td>)
+[//]: # (    <td><b>Invited talk:</b> <i>Romy Frömer</i> - Hidden knobs: Mechanisms of flexible, goal-directed decision-making</td>)
 
 [//]: # (  </tr>)
 
 [//]: # ()
+[//]: # (  <tr>)
+
+[//]: # (    <td>14:45 - 15:00</td>)
+
+[//]: # (    <td>Contributed talk: Title TBD</td>)
+
+[//]: # (  </tr>)
+
 [//]: # ()
 [//]: # (   <tr>)
 
-[//]: # (    <td>15:05 - 16:05</td>)
+[//]: # (    <td>15:00 - 16:00</td>)
 
 [//]: # (    <td style="text-align: center">Break & Posters</td>)
 
@@ -152,9 +128,9 @@ The program will appear here.
 [//]: # ()
 [//]: # (  <tr>)
 
-[//]: # (    <td>16:05 - 16:45</td>)
+[//]: # (    <td>16:00 - 16:40</td>)
 
-[//]: # (    <td><b>Invited talk:</b> <i>Dani Bassett</i> - Curiosity Styles in the &#40;Natural & Artificial&#41; Wild</td>)
+[//]: # (    <td><b>Invited talk:</b> <i>Ted Chiang</i> - Speculations on Educating Artificial Lifeforms</td>)
 
 [//]: # (  </tr>)
 
@@ -163,7 +139,7 @@ The program will appear here.
 
 [//]: # (    <td>16:45 - 17:25</td>)
 
-[//]: # (    <td><b>Invited Talk:</b> <i>Natalia Vélez</i> - How Do Humans Overcome Individual Computational Limitations by Working Together?</td>)
+[//]: # (    <td style="text-align: center">Panel Discussion</td>)
 
 [//]: # (  </tr>)
 
@@ -179,7 +155,4 @@ The program will appear here.
 [//]: # (</table>)
 
 [//]: # ()
-[//]: # ()
-[//]: # (</div>)
-
 
