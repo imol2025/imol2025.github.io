@@ -66,7 +66,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/alison.jpg'>
+      <img class="speaker-img" src='/assets/img/alison.jpeg'>
     </div>
   </div>
 
@@ -74,18 +74,19 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="http://alisongopnik.com/" target="_blank"> Alison Gopnik </a></h4>
     <p class='speaker-affiliation'> UC Berkley </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> TBA
+        <b>Talk title: </b> Empowerment as Causal Learning, Causal Learning as Empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning.
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            Alison Gopnik is a professor of psychology and affiliate professor of philosophy at the University of California at Berkeley, and a member of the Berkeley AI Research Group. She received her BA from McGill University and her PhD. from Oxford University. She is a leader in cognitive science, particularly the study of children’s learning and development. She was one of the founders of the field of “theory of mind”, an originator of the “theory theory” of cognitive development, and the first to apply Bayesian probabilistic models to children’s learning. She has received the APS Lifetime Achievement Cattell and William James Awards, the Bradford Washburn Award for Science Communication, the SRCD Lifetime Achievement Award for Basic Science in Child Development and the Rumelhart Prize for Theoretical Foundations of Cognitive Science. She is an elected member of the Society of Experimental Psychologists and the American Academy of Arts and Sciences and a Cognitive Science Society, American Association for the Advancement of Science, and Guggenheim Fellow. She was 2022-23 President of the Association for Psychological Science.
+            She is the author or coauthor of over 150 journal articles and several books including “Words, thoughts and theories” MIT Press, 1997, and the bestselling and critically acclaimed popular books “The Scientist in the Crib” William Morrow, 1999, “The Philosophical Baby; What children’s minds tell us about love, truth and the meaning of life” 2009, and “The Gardener and the Carpenter” 2016, Farrar, Strauss and Giroux, the latter two won the Cognitive Development Society Best Book Prize in 2009 and 2016. She has also written widely about cognitive science and psychology for The Wall Street Journal, The New York Times, The Economist, The Atlantic, The New Yorker, Scientific American, The Times Literary Supplement, The New York Review of Books, New Scientist and Slate, among others. Her TED talk on her work has been viewed more than 5.5 million times. She has frequently appeared on TV, radio and podcasts including “The Charlie Rose Show”, “The Colbert Report”, and “The Ezra Klein Show”. Photo by Rod Searcey.
         </p>    
     </div>
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            Learning about the causal structure of the world is a fundamental problem for human cognition, and causal knowledge is central to both intuitive and scientific theories. Cognitive scientists have applied advances in our formal understanding of causation in philosophy and computer science, particularly within the Causal Bayes Net formalism, to understand human causal learning. In parallel, in the very different tradition of reinforcement learning, researchers have developed the idea of an intrinsic reward signal called “empowerment”. An agent is rewarded for maximizing the mutual information between its actions and their outcomes, regardless of the external reward value of those outcomes. In other words, the agent is rewarded if variation in an action systematically leads to parallel variation in an outcome so that variation in the action predicts variation in the outcome. The result is an agent that has maximal control over its environment. This is very close to the conception of causal knowledge and learning in the prevailing “interventionist” accounts of causal knowledge that underpin the Bayes net formalism. I argue that “empowerment” may be an important bridge between classical Bayesian causal learning and reinforcement learning and may help to characterize causal learning in humans and enable it in machines. Empowerment may also explain distinctive empirical features of children’s causal learning, as well as providing a more tractable computational account of how that learning is possible. Finally I will present some empirical results exploring empowerment in children and adults.
         </p>
     </div>
   </div>
@@ -131,18 +132,18 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="https://proceduralia.github.io/" target="_blank"> Pierluca D'Oro </a></h4>
     <p class='speaker-affiliation'> McGill University, Meta </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> TBA
+        <b>Talk title: </b> AI-assisted Agent Design with Large Language Models
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            Pierluca D'Oro is a Sicilian scientist working on building agents with reinforcement learning. He studied in Italy, at the University of Catania and Politecnico di Milano, and he is currently finishing his PhD at Mila and Université de Montréal. His primary research focus is to make reinforcement learning algorithms more intuitive for an agent designer, by increasing the synergy between neural networks and the reinforcement learning machinery, and by leveraging the help of AI assistants.
         </p>    
     </div>
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            The job of an agent designer is hard -- can AI assistants make it easier? In this talk, I discuss the paradigm of AI-assisted Agent Design, where an AI assistant collaborates with an agent designer to create more capable agents. As a case study, I will talk about training agents to play the game of NetHack. First, I will show how a reward function distilled from a LLM-based assistant can intrinsically motivate an agent, leading it to play the game even better than a hand-crafted reward. Then, I will introduce the paradigm of AI-assisted Skill Design, which allows human designers and AI assistants to co-create a versatile library of agent skills. I will then show a method for AI-assisted Skill Design, that can solve tasks specified in language without any task-specific training.
         </p>
     </div>
   </div>
@@ -172,6 +173,28 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
         <p style='margin-top: 5pt;font-size: 11pt;'>
             TBA
         </p>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/brian.jpg'>
+    </div>
+  </div>
+
+  <div class="col-9">
+    <h4> <a href="https://brianchristian.org/" target="_blank"> Brian Christian </a></h4>
+    <p class='speaker-affiliation'> Writer </p>
+      <p style='font-size: 11pt;'>
+        <b>Panel</b>
+    </p>
+    <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+            Brian Christian is a DPhil researcher working on intrinsic motivation, alignment, and value representation in the Human Information Processing Lab at the University of Oxford, as well as an affiliate of UC Berkeley’s Center for Human-Compatible AI, UC Berkeley’s Center for IT Research in the Interest of Society, and the Institute for Advanced Study’s AI Policy and Governance Working Group. He is best known as the author of a series of acclaimed nonfiction books about the human implications of computer science, including The Most Human Human, Algorithms to Live By, and The Alignment Problem, which The New York Times ranked as the #1 nonfiction book on AI in 2024.
+        </p>    
     </div>
   </div>
 </div>
