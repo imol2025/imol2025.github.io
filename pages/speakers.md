@@ -29,7 +29,7 @@ subtitle:
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            Sequential sampling models have been tremendously successful in describing choice behavior and generating testable neural predictions. Missing to date is how these same mechanisms can flexibly give rise to the broad range of decisions humans make every day, including choosing the item they like most or least, or assigning a value to their option set as a whole. To test whether and how a single sequential sampling model could flexibly accommodate these and other types of decisions, we developed a theoretical framework that formalizes the necessary representations that align sequential sampling and evidence accumulation with one's current choice goals. We implement this framework within an extended leaky competing accumulator model and show that model simulations can parsimoniously explain behavior across a range of different choice goals, while also generating predictions for previously untested choice goals. Testing novel behavioral predictions of our model, we show that human behavior matches the predicted patterns, and further expand on previous work demonstrating that value-related patterns in gaze critically depend on the goals people have when engaging with options at hand.
         </p>
     </div>
   </div>
@@ -44,7 +44,7 @@ subtitle:
 
   <div class="col-9">
     <h4> <a href="https://en.wikipedia.org/wiki/Ted_Chiang" target="_blank"> Ted Chiang </a></h4>
-    <p class='speaker-affiliation'> Santa Fe Institute </p>
+    <p class='speaker-affiliation'> Writer, Santa Fe Institute </p>
       <p style='font-size: 11pt;'>
         <b>Talk title: </b> Speculations on Educating Artificial Lifeforms
     </p>
@@ -104,18 +104,18 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="https://motivationsciencelab.com/principal-investigator/" target="_blank"> Kou Murayama </a></h4>
     <p class='speaker-affiliation'> University of Tübingen </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> TBA
+        <b>Talk title: </b> Knowledge as a sustainable source of internal rewards: How curiosity transforms into enduring interest 
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            Kou Murayama is the PI of the Motivation Science Lab. He received a Ph. D. in Educational Psychology at the University of Tokyo in 2006. After doing research in several different institutions in Japan, the United States, and Germany in a variety of disciplines (Tokyo Institute of Technology, University of Rochester, University of Munich, University of California, Los Angeles), he became a Lecturer at the University of Reading, UK in 2013. In 2020, Kou Murayama started his current role as a full Professor at the University of Tübingen. Kou Murayama is a recipient of various awards such as F. J. McGuigan Early Career Investigator Prize (American Psychological Foundation), Leverhulme Trust Research Leadership Award (Leverhulme Trust), Advanced Research Fellowships (Jacobs Foundation), and the Humboldt Professorship (Alexander von Humboldt Foundation). His work focuses on a number of overlapping questions about how motivation works in human functioning.
         </p>    
     </div>
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            In recent years, interdisciplinary research on curiosity has surged, exploring how individuals naturally pursue knowledge without external incentives. However, this growing field has largely overlooked the extensive psychological research on interest development and trait curiosity/interest. This talk presents a unifying conceptual perspective, the reward-learning framework of knowledge acquisition (Murayama, 2022), which bridges these previously separate areas. The framework posits that knowledge acquisition acts as an intrinsic reward, reinforcing information-seeking behaviors through a reward-learning process. Importantly, this process can establish a positive feedback loop that sustains and amplifies information-seeking over time. This perspective offers a compelling explanation for how momentary curiosity can evolve into a long-term inclination for knowledge (trait curiosity/interest). This perspective also underscores the need to integrate semantic sense-making processes into decision-making models. 
         </p>
     </div>
   </div>
@@ -188,7 +188,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="https://brianchristian.org/" target="_blank"> Brian Christian </a></h4>
     <p class='speaker-affiliation'> Writer </p>
       <p style='font-size: 11pt;'>
-        <b>Panel</b>
+        <b>Panel Moderator</b>
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
