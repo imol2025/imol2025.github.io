@@ -46,7 +46,7 @@ subtitle:
     <h4> <a href="https://en.wikipedia.org/wiki/Ted_Chiang" target="_blank"> Ted Chiang </a></h4>
     <p class='speaker-affiliation'> Writer, Santa Fe Institute </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Speculations on Educating Artificial Lifeforms
+        <b>Talk title: </b> Speculations on educating artificial lifeforms
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
@@ -74,7 +74,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="http://alisongopnik.com/" target="_blank"> Alison Gopnik </a></h4>
     <p class='speaker-affiliation'> UC Berkley </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Empowerment as Causal Learning, Causal Learning as Empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning.
+        <b>Talk title: </b> Empowerment as causal learning, causal learning as empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
@@ -132,7 +132,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="https://proceduralia.github.io/" target="_blank"> Pierluca D'Oro </a></h4>
     <p class='speaker-affiliation'> McGill University, Meta </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> AI-assisted Agent Design with Large Language Models
+        <b>Talk title: </b> AI-assisted agent design with large language models
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">

@@ -23,12 +23,12 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>09:25 - 10:05</td>
-    <td><b>Invited talk:</b> <i>Alison Gopnik</i> - Empowerment as Causal Learning, Causal Learning as Empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning.</td>
+    <td><b>Invited talk:</b> <i>Alison Gopnik</i> - Empowerment as causal learning, causal learning as empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning.</td>
   </tr>
 
   <tr>
     <td>10:05 - 10:20</td>
-    <td>Contributed talk: OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code</td>
+    <td>Contributed talk: OMNI-EPIC: Open-endedness via models of human notions of interestingness with environments programmed in code</td>
   </tr>
 
   <tr>
@@ -38,12 +38,12 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>11:20 - 11:35</td>
-    <td>Contributed talk: Episodic Novelty Through Temporal Distance </td>
+    <td>Contributed talk: Episodic novelty through temporal distance </td>
   </tr>
 
   <tr>
     <td>11:35 - 12:15</td>
-    <td><b>Invited talk:</b> <i>Pierluca D'Oro</i> - Title TBD</td>
+    <td><b>Invited talk:</b> <i>Pierluca D'Oro</i> - AI-assisted agent design with large language models</td>
   </tr>
 
   <tr>
@@ -63,7 +63,7 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>14:45 - 15:00</td>
-    <td>Contributed talk: A Single Goal is All You Need</td>
+    <td>Contributed talk: A single goal is all you need</td>
   </tr>
 
    <tr>
@@ -73,7 +73,7 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>16:00 - 16:40</td>
-    <td><b>Invited talk:</b> <i>Ted Chiang</i> - Speculations on Educating Artificial Lifeforms</td>
+    <td><b>Invited talk:</b> <i>Ted Chiang</i> - Speculations on educating artificial lifeforms</td>
   </tr>
 
   <tr>
