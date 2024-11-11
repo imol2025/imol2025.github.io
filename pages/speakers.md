@@ -160,12 +160,12 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <h4> <a href="https://anna.harutyunyan.net/" target="_blank"> Anna Harutyunyan </a></h4>
     <p class='speaker-affiliation'> Google DeepMind </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> TBA
+        <b>Talk title: </b> Art of decision, science of nondoing
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            Anna was born and raised in Armenia. Her winding academic path has led her through post-Soviet mathematical landscapes and Oregonian planar graphs, to eventually and almost accidentally, reinforcement learning in 2013. She received her PhD in 2018 from the Free University of Brussels, with a thesis titled "Beyond single step temporal difference learning". Since then she has been a research scientist at DeepMind, continuing to ask questions beyond the convention. A student of wisdom traditions, she is now interested in philosophically and metaphysically motivated technology, poetics of agents, and seeks to align the computational metaphors underlying our algorithms with deeper truths about human and more-than-human intelligence. 
         </p>    
     </div>
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>

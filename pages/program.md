@@ -18,12 +18,12 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>08:45 - 09:25</td>
-    <td><b>Invited talk:</b> <i>Anna Harutyunyan</i> - Title TBD</td>
+    <td><b>Invited talk:</b> <i>Anna Harutyunyan</i> - Art of decision, science of nondoing</td>
   </tr>
 
   <tr>
     <td>09:25 - 10:05</td>
-    <td><b>Invited talk:</b> <i>Alison Gopnik</i> - Empowerment as causal learning, causal learning as empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning.</td>
+    <td><b>Invited talk:</b> <i>Alison Gopnik</i> - Empowerment as causal learning, causal learning as empowerment: A bridge between Bayesian causal hypothesis testing and reinforcement learning</td>
   </tr>
 
   <tr>
