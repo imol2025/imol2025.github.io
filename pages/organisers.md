@@ -12,7 +12,8 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/laetitia.png'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://scholar.google.com/citations?user=pW-r5kcAAAAJ">Laetitia Teodorescu</a> <br> <p class='speaker-affiliation'> Inria</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://scholar.google.com/citations?user=pW-r5kcAAAAJ">Laetitia Teodorescu</a> <br> <p 
+class='speaker-affiliation'> Adaptive ML</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/nadiamady.jpeg'>
