@@ -78,7 +78,7 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>16:45 - 17:25</td>
-    <td style="text-align: center">Panel Discussion</td>
+    <td style="text-align: center">Panel Discussion - Moderated by Brian Christian</td>
   </tr>
 
   <tr>

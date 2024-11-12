@@ -186,7 +186,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
 
   <div class="col-9">
     <h4> <a href="https://brianchristian.org/" target="_blank"> Brian Christian </a></h4>
-    <p class='speaker-affiliation'> Writer </p>
+    <p class='speaker-affiliation'> Writer - Univ. of Oxford </p>
       <p style='font-size: 11pt;'>
         <b>Panel Moderator</b>
     </p>
