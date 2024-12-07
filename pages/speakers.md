@@ -124,26 +124,26 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/pierluca.jpg'>
+      <img class="speaker-img" src='/assets/img/mikayel.jpeg'>
     </div>
   </div>
 
   <div class="col-9">
-    <h4> <a href="https://proceduralia.github.io/" target="_blank"> Pierluca D'Oro </a></h4>
-    <p class='speaker-affiliation'> McGill University, Meta </p>
+    <h4> <a href="https://proceduralia.github.io/" target="_blank"> Mikayel Samvelyan </a></h4>
+    <p class='speaker-affiliation'> Google DeepMind </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> AI-assisted agent design with large language models
+        <b>Talk title: </b> Agent Learning in Open-Endedness
     </p>
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            Pierluca D'Oro is a Sicilian scientist working on building agents with reinforcement learning. He studied in Italy, at the University of Catania and Politecnico di Milano, and he is currently finishing his PhD at Mila and Université de Montréal. His primary research focus is to make reinforcement learning algorithms more intuitive for an agent designer, by increasing the synergy between neural networks and the reinforcement learning machinery, and by leveraging the help of AI assistants.
+            .
         </p>    
     </div>
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            The job of an agent designer is hard -- can AI assistants make it easier? In this talk, I discuss the paradigm of AI-assisted Agent Design, where an AI assistant collaborates with an agent designer to create more capable agents. As a case study, I will talk about training agents to play the game of NetHack. First, I will show how a reward function distilled from a LLM-based assistant can intrinsically motivate an agent, leading it to play the game even better than a hand-crafted reward. Then, I will introduce the paradigm of AI-assisted Skill Design, which allows human designers and AI assistants to co-create a versatile library of agent skills. I will then show a method for AI-assisted Skill Design, that can solve tasks specified in language without any task-specific training.
+            TBA
         </p>
     </div>
   </div>
@@ -171,7 +171,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            In this talk we will use the frame of finite and infinite games to guide us through an exploration of alternative philosophical principles for action, that we arguably need for true open ended learning. Beyond instrumental goal-directedness, which is about finite games, what is there? The talk will be an attempt to articulate this question, bringing together a diverse but resonant set of perspectives and concepts, from Aristotle to Deleuze, from attunement to meaning.
         </p>
     </div>
   </div>
