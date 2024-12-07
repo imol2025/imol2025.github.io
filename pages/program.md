@@ -43,7 +43,7 @@ The program listed below is tentative and may be updated.
 
   <tr>
     <td>11:35 - 12:15</td>
-    <td><b>Invited talk:</b> <i>Pierluca D'Oro</i> - AI-assisted agent design with large language models</td>
+    <td><b>Invited talk:</b> <i>Mikayel Samvelyan</i> - Agent Learning in Open-Endedness </td>
   </tr>
 
   <tr>
