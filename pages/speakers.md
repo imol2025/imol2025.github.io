@@ -124,7 +124,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/mikayel.jpeg'>
+      <img class="speaker-img" src='/assets/img/mikayel.jpg'>
     </div>
   </div>
 
