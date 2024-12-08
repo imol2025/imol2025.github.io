@@ -129,7 +129,7 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
   </div>
 
   <div class="col-9">
-    <h4> <a href="https://proceduralia.github.io/" target="_blank"> Mikayel Samvelyan </a></h4>
+    <h4> <a href="https://samvelyan.com/" target="_blank"> Mikayel Samvelyan </a></h4>
     <p class='speaker-affiliation'> Google DeepMind </p>
       <p style='font-size: 11pt;'>
         <b>Talk title: </b> Agent Learning in Open-Endedness
@@ -137,13 +137,13 @@ If we ever create artificial lifeforms capable of human-like cognition, how migh
     <button type="button" style='font-size: 11pt;' class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            .
+            Mikayel Samvelyan is a Senior Research Scientist at Google DeepMind in the Open-Endedness Team. Previously, he was a Research Assistant at Meta FAIR and a PhD student at University College London (UCL), where he was supervised by Tim Rocktäschel in the UCL DARK Lab. Mikayel holds an MSc in Computer Science from the University of Oxford, and Master’s and Bachelor’s degrees from Yerevan State University. His research focuses on reinforcement learning, multi-agent systems, and open-endedness, with the goal of developing methods that provide AI agents with endless learning opportunities.
         </p>    
     </div>
     <button type="button" style='font-size: 11pt;' class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-            TBA
+            AI models have achieved remarkable capabilities across various domains, but their potential is often constrained by the static nature of training data and environments. Open-endedness offers a transformative approach by enabling systems to continuously generate novel, learnable challenges, fostering perpetual learning and broader generalization to unseen tasks. In this talk, we explore how open-ended methods can drive progress beyond traditional approaches, leading to systems that are not only robust in the face of new tasks and environments but also capable of continuous, boundless learning.
         </p>
     </div>
   </div>
