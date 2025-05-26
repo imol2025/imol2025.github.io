@@ -1,0 +1,76 @@
+[ 
+ 
+ 
+{ 
+"title"    : "Call for Papers", 
+"desc"     : "Call for Papers", 
+"category" : "page", 
+"url"      : "/pages/call/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "", 
+"desc"     : "", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "New Edition", 
+"desc"     : "New Edition", 
+"category" : "page", 
+"url"      : "/pages/new_edition/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Organising Committee", 
+"desc"     : "Organising Committee", 
+"category" : "page", 
+"url"      : "/pages/organisers/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Papers", 
+"desc"     : "Papers", 
+"category" : "page", 
+"url"      : "/pages/papers/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Program", 
+"desc"     : "Program", 
+"category" : "page", 
+"url"      : "/pages/program/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Speakers", 
+"desc"     : "Speakers", 
+"category" : "page", 
+"url"      : "/pages/speakers/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Sponsors", 
+"desc"     : "Sponsors", 
+"category" : "page", 
+"url"      : "/pages/sponsors/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Tag Index", 
+"desc"     : "Tag Index", 
+"category" : "page", 
+"url"      : "/tags/", 
+"date"     : "January 1, 1970" 
+} 
+ 
+]
