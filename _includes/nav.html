@@ -1,10 +1,22 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
-  {%- if site.title-img -%}
+<!-- NAV INCLUDE IS WORKING -->
+
+  <!--{%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
-  {%- endif -%}
+  {%- endif -%}-->
+
+
+  <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}">
+    <img src="{{ '/assets/img/imol_logo2.png' | relative_url }}" alt="IMOL Workshop" class="nav-logo imol-logo" />
+  </a>
+
+  <a class="navbar-brand navbar-brand-logo" href="https://www.herts.ac.uk/" target="_blank">
+    <img src="{{ '/assets/img/uh-logo-black-rgb.png' | relative_url }}" alt="University of Hertfordshire" class="nav-logo uh-logo" />
+  </a>
+
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -39,12 +51,12 @@
         </li>
       {%- endif -%}
 
-      <li class="nav-item">
+        <!--<li class="nav-item"> 
          <a class="nav-link" id="nav-search-link" href="#" title="Twitter" onclick="openURL('https://twitter.com/IMOLNeurIPS2024')">
             <span id="nav-twitter-icon" class="fab fa-twitter" ></span>
             <span id="nav-twitter-text" onclick="openURL('https://twitter.com/IMOLNeurIPS2024')">Twitter</span>
           </a>
-        </li>
+        </li>-->
     </ul>
   </div>
 
