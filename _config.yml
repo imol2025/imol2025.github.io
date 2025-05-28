@@ -48,11 +48,11 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jttkim@gmail.com"
+  email: "imol25.workshop@gmail.com"
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
 #   github: daattali
-  twitter: IMOLNeurIPS2024
+#  twitter: IMOLNeurIPS2024
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
