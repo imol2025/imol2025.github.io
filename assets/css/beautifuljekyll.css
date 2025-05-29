@@ -368,7 +368,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 1.125rem;
   font-size: 0.675rem;
-  background-color: #ccd0eb;
+  background-color: #d4a8a9;
   
 }
 
@@ -377,12 +377,12 @@ footer p.text-muted {
 }
 
 footer a {
-  color: #3a71ba;
+  color: #a65c5e;
 }
 
 footer a:hover,
 footer a:focus {
-  color: #3a71ba;
+  color: #a65c5e;
 }
 
 footer .list-inline {
