@@ -806,7 +806,8 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  /* ---background-color: #ffffff;  --- */
+  background-color: transparent !important;
   margin: 0;
   padding: 0;
 }
@@ -1140,4 +1141,10 @@ pre {
 }
 .imol-logo {
   /* optional adjustments */
+}
+
+/* Remove zebra-striping from all tables */
+.table-striped tbody tr:nth-of-type(odd),
+.table-striped tbody tr:nth-of-type(even) {
+  background-color: transparent !important;
 }
