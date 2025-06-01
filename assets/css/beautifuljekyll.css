@@ -1148,3 +1148,13 @@ pre {
 .table-striped tbody tr:nth-of-type(even) {
   background-color: transparent !important;
 }
+
+/* ————————— Remove extra gap under banner ————————— */
+.intro-header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.intro-header + .main-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
