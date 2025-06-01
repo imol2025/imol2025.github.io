@@ -28,7 +28,7 @@ navbar-links:
   Call: "/pages/call"
   Speakers: "/pages/speakers"
   Organisers: "/pages/organisers"
-  Past Editions: "/site_2023/index.html"
+  Past Editions: "/pages/past_editions"
 #  Sponsors: "sponsors"
 
 # Image to show in the navigation bar - works best with a square image
