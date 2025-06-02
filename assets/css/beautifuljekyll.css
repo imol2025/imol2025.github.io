@@ -1158,3 +1158,25 @@ pre {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+
+
+
+/* ----------------------------------------------------------------
+   Organiser page: role‐line under each name/affiliation
+------------------------------------------------------------------*/
+
+/* 1) Shrink gap below the affiliation line */
+.speaker-affiliation {
+  margin-bottom: 0.25rem;   /* reduce space under “MIT; Inria” */
+}
+
+/* 2) Pull the role text up so it sits closer */
+.organiser-role {
+  /* make the “General Chair” line tighter under the affiliation */
+  font-size: 0.9rem;
+  color: #555;              /* same grey as before */
+  margin-top: 0.125rem;     /* almost zero—brings it up */
+  margin-bottom: 0.75rem;   /* space before next organiser block */
+  font-style: italic;       /* optional */
+}
