@@ -8,10 +8,9 @@ title: Speakers&Program
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/volpi3.JPG'>
+      <img class="organiser-img" src='/assets/img/Michael-Levin-profile.jpg'>
       <div class="organiser-name" style="text-align: center;"> 
-      Nicola Catenacci Volpi <br> <p class='speaker-affiliation'>University of Hertfordshire</p>
-      <p class='organiser-role'>General Chair</p>
+      Michael Levin<br> <p class='speaker-affiliation'>Tufts University, USA</p>
       </div>
     </div>
     <div class="col-sm">
