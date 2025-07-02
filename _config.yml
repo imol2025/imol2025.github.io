@@ -26,7 +26,7 @@ author: IMOL25 Organizing Committee
 navbar-links:
   Home: "/"
   Call: "/pages/call"
-  Speakers&Program: "/pages/speakers_program"
+  Speakers: "/pages/speakers"
   Organisers: "/pages/organisers"
   Past Editions: "/pages/past_editions"
 #  Sponsors: "sponsors"
