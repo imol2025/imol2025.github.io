@@ -26,16 +26,25 @@ class='speaker-affiliation'>  University of Edinburgh </p>
 </div>
     </div>
     </div>
-<div class="row">
+  <div class="row">
     <div class="col-sm">
-        </div>
-        <div class="col-sm">
-          <img class="organiser-img" src='/assets/img/Christian_Guckelsberger.jpg'>
-          <div class="organiser-name" style="text-align: center;"> Christian Guckelsberger <br> <p class='speaker-affiliation'> Aalto University</p>
-          </div>
-        </div>
-        <div class="col-sm">
-        </div>
+      <img class="organiser-img" src='/assets/img/Christian_Guckelsberger.jpg'>
+      <div class="organiser-name" style="text-align: center;"> 
+      Christian Guckelsberger<br> <p class='speaker-affiliation'>Aalto University</p>
+      </div>
     </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/foerster.png'>
+      <div class="organiser-name" style="text-align: center;"> 
+      Jakob Foerster <br> <p class='speaker-affiliation'>University of Oxford</p>
+      </div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/simsek-headshot.png'>
+      <div class="organiser-name" style="text-align: center;"> Özgür Şimşek <br> <p 
+class='speaker-affiliation'>  University of Bath </p>
 </div>
+    </div>
+    </div>
+
 ... and many more. Stay tuned.
