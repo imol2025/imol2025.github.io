@@ -46,11 +46,13 @@ Topics of interest include _but are not limited to_:
 
 ---
 
+
 ### Important Dates
 
-| Event                       | Date                        |
-|-----------------------------|-----------------------------|
-| Submission opens            | June 2, 2025                |
-| Submission deadline         | July 13, 2025               |
-| Notification of acceptance  | July 20, 2025               |
-| Workshop dates              | September 8 – 10, 2025      |
+
+| Event                      | Date                                   |
+|----------------------------|----------------------------------------|
+| Submission opens           | June 2, 2025                           |
+| Submission deadline        | ~~July 13, 2025~~  **July 20, 2025** **<span style="color:#c00">  (EXTENDED DEADLINE)</span>** |
+| Notification of acceptance | ~~July 20, 2025~~  **July 27, 2025**  |
+| Workshop dates             | September 8 – 10, 2025                 |
