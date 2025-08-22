@@ -66,5 +66,15 @@ class='speaker-affiliation'>  University of Kent </p>
 </div>
     </div>
     </div>
-
-... and many more. Stay tuned.
+<div class="row">
+    <div class="col-sm">
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/baldassarre.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> 
+      Gianluca Baldassarre <br> <p class='speaker-affiliation'> Italian National Research Council (ISTC-CNR)</p>
+      </div>
+    </div>
+  <div class="col-sm">
+  </div>
+</div>
