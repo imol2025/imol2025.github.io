@@ -28,6 +28,7 @@ navbar-links:
   Call: "/pages/call"
   Speakers: "/pages/speakers"
   Schedule: "/pages/schedule"
+  Venue: "/pages/venue"
   Organisers: "/pages/organisers"
   Past Editions: "/pages/past_editions"
 #  Sponsors: "sponsors"
