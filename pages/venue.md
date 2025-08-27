@@ -54,7 +54,7 @@ AL10 9AB, UK
 - **Parking** via **Hozah**: <https://www.hozah.com/>
 
 #### By air
-- **Stansted Airport** → direct **National Express** coach to Hatfield (≈ every 2.5 h), or train via **Cambridge**.  
+- **Stansted Airport** → direct **National Express** coach to Hatfield (≈ every 2.5 h), or train via **London** or **Cambridge**.  
 - **Luton Airport** → train to **St Albans**, then bus to Hatfield.  
 - **Gatwick Airport** → train to **St Albans** then bus; or via London (change at **Finsbury Park**).  
 - **Heathrow Airport** → Underground **Piccadilly Line** to **Finsbury Park**, then train to Hatfield; or **724** direct bus to Hatfield.
