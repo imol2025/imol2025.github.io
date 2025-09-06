@@ -10,7 +10,7 @@ title: "Tim Rocktäschel"
 
 ---
 
-# Talk: *Open-Endedness and World Models*
+# TALK: *"Open-Endedness and World Models"*
 
 **Abstract**  
 The pursuit of Artificial Superintelligence (ASI) requires a shift from narrow objective optimization towards embracing Open-Endedness—a research paradigm, pioneered in AI by Stanley, Lehman and Clune, that is focused on systems that generate endless sequences of novel but learnable artifacts. In this talk, I will present our work on large-scale foundation world models that can generate a wide variety of diverse environments, and in turn be used to train more general and robust agents.

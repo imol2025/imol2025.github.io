@@ -8,10 +8,12 @@ title: Speakers
 <div class="container">
   <div class="row">
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/levin' | relative_url }}">
       <img class="organiser-img" src='/assets/img/Michael-Levin-profile.jpg'>
       <div class="organiser-name" style="text-align: center;"> 
       Michael Levin<br> <p class='speaker-affiliation'>Tufts University</p>
       </div>
+      </a>
     </div>
     <div class="col-sm">
     <a href="{{ '/pages/speakers/rocktaeschel' | relative_url }}">
@@ -22,60 +24,76 @@ title: Speakers
        </a>
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/herrmann' | relative_url }}">
       <img class="organiser-img" src='/assets/img/Michael_Herrmann.jpg'>
       <div class="organiser-name" style="text-align: center;"> Michael Herrmann <br> <p 
 class='speaker-affiliation'>  University of Edinburgh </p>
 </div>
+</a>
     </div>
     </div>
   <div class="row">
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/guckelsberger' | relative_url }}">
       <img class="organiser-img" src='/assets/img/Christian_Guckelsberger.jpg'>
       <div class="organiser-name" style="text-align: center;"> 
       Christian Guckelsberger<br> <p class='speaker-affiliation'>Aalto University</p>
       </div>
+      </a>
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/foerster' | relative_url }}">
       <img class="organiser-img" src='/assets/img/foerster.png'>
       <div class="organiser-name" style="text-align: center;"> 
       Jakob Foerster <br> <p class='speaker-affiliation'>University of Oxford</p>
       </div>
+      </a>
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/simsek' | relative_url }}">
       <img class="organiser-img" src='/assets/img/simsek-headshot.png'>
       <div class="organiser-name" style="text-align: center;"> Özgür Şimşek <br> <p 
 class='speaker-affiliation'>  University of Bath </p>
 </div>
+</a>
     </div>
     </div>
     <div class="row">
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/verbelen' | relative_url }}">
       <img class="organiser-img" src='/assets/img/Tim_Verbelen.jpeg'>
       <div class="organiser-name" style="text-align: center;"> 
       Tim Verbelen<br> <p class='speaker-affiliation'>VERSES Research Lab</p>
       </div>
+      </a>
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/braendle' | relative_url }}">
       <img class="organiser-img" src='/assets/img/franziskabraendle2.jpg'>
       <div class="organiser-name" style="text-align: center;"> 
       Franziska Brändle <br> <p class='speaker-affiliation'>University of Oxford</p>
       </div>
+      </a>
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/jordanous' | relative_url }}">
       <img class="organiser-img" src='/assets/img/AnnaJordanous.jpg'>
       <div class="organiser-name" style="text-align: center;"> Anna Jordanous <br> <p 
 class='speaker-affiliation'>  University of Kent </p>
 </div>
+</a>
     </div>
     </div>
 <div class="row">
     <div class="col-sm">
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/baldassarre' | relative_url }}">
       <img class="organiser-img" src='/assets/img/baldassarre.jpeg'>
       <div class="organiser-name" style="text-align: center;"> 
       Gianluca Baldassarre <br> <p class='speaker-affiliation'> Italian National Research Council (ISTC-CNR)</p>
       </div>
+      </a>
     </div>
   <div class="col-sm">
   </div>

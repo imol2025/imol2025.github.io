@@ -72,9 +72,21 @@ title: Schedule
     </tr>
     <tr>
       <td>9:45–10:25</td>
-      <td>Invited Talk: Gianluca Baldassarre</td>
-      <td>Invited Talk: Christian Guckelsberger</td>
-      <td>Invited Talk: Franziska Braendle</td>
+      <td> <a href="{{ '/pages/speakers/baldassarre' | relative_url }}"
+     title="Gianluca Baldassarre - Open‑Ended Learning Robots: From the Purpose Alignment Framework to a Purpose-Biased Model">
+     Gianluca Baldassarre - "Open‑Ended Learning Robots: From the Purpose Alignment Framework to a Purpose-Biased Model"
+     </a>
+     </td>
+      <td> <a href="{{ '/pages/speakers/guckelsberger' | relative_url }}"
+     title="Christian Guckelsberger - Creativity & Intrinsically Motivated, Open-Ended Learning: Three Roads to Surprise">
+      Christian Guckelsberger - "Creativity & Intrinsically Motivated, Open-Ended Learning: Three Roads to Surprise"
+      </a>
+      </td>
+      <td> <a href="{{ '/pages/speakers/braendle' | relative_url }}"
+     title="Franziska Braendle - Understanding Fun: Using Video Games to Study Intrinsic Motivation">
+      Franziska Braendle - "Understanding Fun: Using Video Games to Study Intrinsic Motivation"
+      </a>
+      </td>
     </tr>
     <tr>
       <td>10:25–10:55</td>
@@ -86,11 +98,19 @@ title: Schedule
       <td>10:55–11:35</td>
       <td> <a href="{{ '/pages/speakers/rocktaeschel' | relative_url }}"
      title="Tim Rocktäschel — Open-Endedness and World Models">
-     Tim Rocktäschel - Open-Endedness and World Models
+     Tim Rocktäschel - "Open-Endedness and World Models"
      </a>
      </td>
-      <td>Invited Talk: Jakob Foerster</td>
-      <td>Invited Talk: Michael Herrmann</td>
+      <td> <a href="{{ '/pages/speakers/foerster' | relative_url }}"
+     title="Jakob Foerster - Reinforcement Learning at the Hyperscale">
+      Jakob Foerster - "Reinforcement Learning at the Hyperscale"
+      </a>
+      </td>
+      <td> <a href="{{ '/pages/speakers/herrmann' | relative_url }}"
+     title="Michael Herrmann - The emotional underpinnings of self-motivated learning">
+      Michael Herrmann - "The emotional underpinnings of self-motivated learning"
+      </a>
+      </td>
     </tr>
     <tr>
       <td>11:35–11:45</td>
@@ -116,8 +136,16 @@ title: Schedule
     </tr>
     <tr>
       <td>13:35–14:15</td>
-      <td>Invited Talk: Anna Jordanous</td>
-      <td>Invited Talk: Tim Verbelen</td>
+      <td><a href="{{ '/pages/speakers/jordanous' | relative_url }}"
+     title="Anna Jordanous - Measuring success in open ended-learning AI models: what has been learned from computational creativity evaluation research">
+      Anna Jordanous - "Measuring success in open ended-learning AI models: what has been learned from computational creativity evaluation research"
+      </a>
+      </td>
+      <td><a href="{{ '/pages/speakers/verbelen' | relative_url }}"
+     title="Tim Verbelen - Active Inference for Adaptive Robots: A First-Principles Approach to Perception, Planning, and Control">
+      Tim Verbelen - "Active Inference for Adaptive Robots: A First-Principles Approach to Perception, Planning, and Control"
+      </a>
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -134,8 +162,16 @@ title: Schedule
     </tr>
     <tr>
       <td>16:15–16:55</td>
-      <td>Invited Talk: Özgür Şimşek</td>
-      <td>Invited Talk: Michael Levin</td>
+      <td> <a href="{{ '/pages/speakers/simsek' | relative_url }}"
+     title="Özgür Şimşek - Learning multi-level skill hierarchies in reinforcement learning">
+      Özgür Şimşek - "Learning multi-level skill hierarchies in reinforcement learning"
+      </a>
+      </td>
+      <td> <a href="{{ '/pages/speakers/levin' | relative_url }}"
+     title="Michael Levin - Diverse intelligence: intrinsic motivation in evolved, engineered, and hybrid systems">
+      Michael Levin - "Diverse intelligence: intrinsic motivation in evolved, engineered, and hybrid systems"
+      </a>
+      </td>
       <td></td>
     </tr>
     <tr>
