@@ -84,7 +84,11 @@ title: Schedule
     </tr>
     <tr>
       <td>10:55–11:35</td>
-      <td>Invited Talk: Tim Rocktäschel</td>
+      <td> <a href="{{ '/pages/speakers/rocktaeschel' | relative_url }}"
+     title="Tim Rocktäschel — Open-Endedness and World Models">
+     Tim Rocktäschel - Open-Endedness and World Models
+     </a>
+     </td>
       <td>Invited Talk: Jakob Foerster</td>
       <td>Invited Talk: Michael Herrmann</td>
     </tr>

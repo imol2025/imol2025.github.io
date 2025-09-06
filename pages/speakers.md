@@ -14,10 +14,12 @@ title: Speakers
       </div>
     </div>
     <div class="col-sm">
+    <a href="{{ '/pages/speakers/rocktaeschel' | relative_url }}">
       <img class="organiser-img" src='/assets/img/Tim-Rocktaeschel-photo-square.png'>
       <div class="organiser-name" style="text-align: center;"> 
       Tim Rocktäschel <br> <p class='speaker-affiliation'>University College London / DeepMind</p>
       </div>
+       </a>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/Michael_Herrmann.jpg'>
