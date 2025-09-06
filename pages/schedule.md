@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Schedule
+title: Programme
 ---
+
+## Schedule
+
 <style>
   /* let this page use the full viewport width */
   .container-md { max-width: none; }
@@ -193,3 +196,57 @@ title: Schedule
 
   </div>
 </div>
+
+---
+
+## Poster Sessions
+
+### Poster Session 1 — *Monday, 8 September* · *12:05–13:35* (SPECTRA building, Floor 1 open space)
+
+- *Richard Bornemann* — “Discrete Hierarchical Skill Spaces as a Next Frontier of Quality Diversity Methods”  
+- *Erik M. Lintunen, Nadia M. Ady, Sebastian Deterding, Christian Guckelsberger* — “Employing Intrinsically Motivated Reinforcement Learning Towards a Formal Specification of the Need for Competence”  
+- *Dominik Sobania, Martin Briesch* — “Open-Ended Evolution of Tools for Large Language Model-Based Problem Solving”  
+- *Barthélémy Dang-Nhu, Louis Annabi, Sylvain ARGENTIERI* — “Linear Disentanglement through Action Group Learning”  
+- *Mathilde Kappel, Mahdi Khoramshahi, Faiz BEN AMAR, Louis Annabi, Stephane Doncieux* — “Towards Robust Prehensile Manipulation in Open-Ended Environments”  
+- *Zakaria LEMHAOURI, Laura COHEN, Ann Nowe, Lola Cañamero* — “Comparing Motivation-Based and Passive Language Learning Approaches for Robots in Ambiguous Environments”  
+- *Theodora Hamilton-Holbrook, John Lones* — “Prima Facie: Neuromodulation to Support Motivation Interplay”  
+- *Alexander David Wickham, Dongao Zhai, J. Michael Herrmann* — “Emergent Properties in Swarm Robotics: Towards Adaptive and Versatile Behaviour”  
+- *Dari Trendafilov* — “Empowerment-based prediction of swarm performance in collective perception”  
+- *Benjamin Fele, Jan Babic* — “Exploration via Junction States: Scalable Estimation with Door(s)”  
+- *Miklos Kepes, Paul O'Dowd, Chanelle Lee* — “Beyond Copying: Selective Goal-Driven Imitation for Continual Adaptation of Autonomous Agents”  
+- *Faizan Rasheed, Daniel Polani, Kenzo Clauw, Nicola Catenacci Volpi* — “Object Empowerment as an Intrinsic Drive for Tool Selection in Reinforcement Learning”  
+- *Eleni Nisioti, Akhi Mocherla, Cédric Colas, Pierre-Yves Oudeyer, Clément Moulin-Frier, Jérémy Perez, Maxime Derex* — “Evolving Interaction Protocols for Open-Ended Collective Innovation”  
+- *Fabian Wurzberger, Sebastian Gottwald, Daniel Alexander Braun* — “Contrastive Goal Representation Learning for Open-Ended Reinforcement Learning”  
+- *Roberto Santana* — “A neuroevolutionary algorithm for plasticity loss mitigation based on neuron coverage”  
+- *Loris Gaven, Thomas Carta, Clément ROMAC, Cédric Colas, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer* — “MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces”  
+- *Julien Pourcel, Cédric Colas, Pierre-Yves Oudeyer* — “Self-Improving Language Models for Evolutionary Program Synthesis: A Case Study on ARC-AGI”  
+- *Thomas Carta, Clément ROMAC, Loris Gaven, Pierre-Yves Oudeyer, Olivier Sigaud, Sylvain Lamprier* — “HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents”  
+- *Guillaume Pourcel, Thomas Carta, Grgur Kovač, Cédric Colas, Pierre-Yves Oudeyer* — “Learning Progress-Guided LLM Goal Generation for Autotelic Skill Learning”  
+- *Frank Förster* — “Social Motivations - An Overlooked Topic in the Intrinsic Motivation Landscape?”  
+- *William B. Langdon* — “Open-Ended Evolution with Linear Genetic Programming”  
+
+
+
+### Poster Session 2 — *Tuesday, 9 September* · *12:05–13:35* (SPECTRA building, Floor 1 open space)
+
+- *Fei-Yang Huang, Fabian Grabenhorst* — “Compositional Nutrient-Reward Valuation for Nutrient-sensitive Reinforcement Learning”  
+- *Leticia Berto, Ricardo R. Gudwin, Esther Luna Colombini* — “Towards Autonomy: An Incremental, Intrinsically Motivated Approach for Cognitive Robots”
+- *Erik M. Lintunen* — “VendiRL: A Framework for Learning Diversely Diverse Skills Under a Single Reward Formalism”  
+- *Alejandro Romero, Gianluca Baldassarre, Richard J. Duro, Vieri Giuliano Santucci* — “A Motivational Architecture for Open-Ended Learning Challenges in Robots”
+- *Michal Vavrecka, Gabriela Sejnova, Karla Stepanova, Radoslav Škoviera* — “PRAG: Procedural Action Generator”  
+- *Jan Lemeire, Jure Zabkar, Domen Soberl, Marco Van Cleemput, Ruben Spolmink* — “Qualitative Models – The Missing Link for Self-Learning Embodied Agents”
+- *John Lones* — “Using (Neuro-)Hormones to generate motivations and support long term learning”  
+- *Timur Ryspekov, Yevgeniy Ussatov* — “iCon: A Modular AI Architecture for Open-Ended, Self-Supervised Learning”
+- *Soumya Banerjee* — “Wu-Wei in the Machine: Open-Ended Learning in Goal-Free Generative Agent Societies”  
+- *Ruben Spolmink, Marco Van Cleemput, Jan Lemeire* — “Skill learning using qualitative models”
+- *Oksana Hagen* — “Task-Agnostic Representation Learning for Policy Learning in Embodied Agents: A Scoping Review”  
+- *Andrey E Ustyuzhanin, Ivar Martin, Serg Bell* — “Mini-Bang Intelligence Benchmark: A Parametric Framework for Measuring Emergence Comprehension”
+- *Emiland Garrabé, Julien Gleyze, Mahdi Khoramshahi, Stephane Doncieux* — “Open-ended planning and grasping for robotic manipulation tasks using lightweight LLMs”  
+- *Mohan Sridharan* — “Toward Open-Ended Reasoning and Learning in Robotics”
+- *Tristan Alexander Shah, Ilya Nemenman, Daniel Polani, Stas Tiomkin* — “Emergence of Diverse Social Interactions Through Egoistic Empowerment”  
+- *Andrea Fanti, Roberto Capobianco* — “Unsupervised Reward Design”
+- *Oliver Obst, Fabian C Weigend, Lisa Graf* — “Empowerment under Uncertainty: Approximate Bayesian Exploration in Model-Based RL”  
+- *Tojoarisoa Rakotoaritina, Gaganpreet Jhajj, Chris Reinke, Kenji Doya* — “Information-Theoretic Formulation and Combination of Intrinsic Rewards: Novelty, Surprise and Empowerment”
+- *Stavros T Anagnou* — “Empowerment for intrinsically motivated social conformity”  
+- *Nicola Catenacci Volpi, Karen Archer, Emil Dmitruk, Kenzo Clauw, Frederick Richard, Emilio Cartoni, Gianluca Baldassarre* — “Empowerment for Goal-driven Open-Ended Learning”
+- *Hampus Åström* — “"Environment Agnostic Goal-Conditioning, A Study of Reward-Free Autonomous Learning”  

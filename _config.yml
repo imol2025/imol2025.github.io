@@ -27,7 +27,7 @@ navbar-links:
   Home: "/"
   Call: "/pages/call"
   Speakers: "/pages/speakers"
-  Schedule: "/pages/schedule"
+  Programme: "/pages/schedule"
   Venue: "/pages/venue"
   Hospitality: "/pages/hospitality"
   Organisers: "/pages/organisers"
