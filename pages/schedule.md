@@ -114,19 +114,27 @@ title: Schedule
     </tr>
     <tr>
       <td>11:35–11:45</td>
-      <td>Contributed Talk 1</td>
-      <td>Contributed Talk 4</td>
+      <td>Contributed Talk: Thomas Carta - "HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents" </td>
+      <td>Contributed Talk: Émiland Garrabé - "Open-ended planning and grasping for robotic manipulation tasks using lightweight LLMs"</td>
       <td rowspan="3">Closing Remarks</td>
     </tr>
     <tr>
       <td>11:45–11:55</td>
-      <td>Contributed Talk 2</td>
-      <td>Contributed Talk 5</td>
+      <td> <a href="{{ '/assets/abstracts/CT2.pdf' | relative_url }}" target="_blank"
+     title="Abstract: Oliver Obst - Empowerment under Uncertainty">
+      Contributed Talk: Oliver Obst - "Empowerment under Uncertainty: Approximate Bayesian Exploration in Model-Based RL"
+      </a>
+      </td>
+      <td>Contributed Talk: Tristan Shah - "Emergence of Diverse Social Interactions Through 'Egoistic Empowerment'"</td>
     </tr>
     <tr>
       <td>11:55–12:05</td>
-      <td>Contributed Talk 3</td>
-      <td>Contributed Talk 6</td>
+      <td> <a href="{{ '/assets/abstracts/CT3.pdf' | relative_url }}" target="_blank"
+     title="Abstract: Fabian Wurzberger - Contrastive Goal Representation Learning">
+      Contributed Talk: Fabian Wurzberger - "Contrastive Goal Representation Learning for Open-Ended Reinforcement Learning"
+      </a>
+      </td>
+      <td>Contributed Talk: John Lones - "Using (Neuro-)Hormones to generate motivations and support long term learning"</td>
     </tr>
     <tr>
       <td>12:05–13:35</td>
